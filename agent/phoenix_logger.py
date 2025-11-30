@@ -1,0 +1,2 @@
+class PhoenixLogger:
+    pass

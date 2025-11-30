@@ -1,0 +1,10 @@
+openai
+vocode
+PyYAML
+arize-phoenix
+langchain
+langchain-community
+sounddevice
+numpy
+whisper-timestamped
+python-dotenv
